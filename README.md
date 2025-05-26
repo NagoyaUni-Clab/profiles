@@ -13,7 +13,7 @@ By using this repository, you can edit your personal page, and once the changes 
 ※ Please note that updates on the homepage may take some time after the web team's approval.
 
 
-## <ルール>
+## <ルール(Rules)>
 このレポジトリで、自分のhtmlファイルをyourfullname.htmlの中のコードを全てコピーし、新たなファイルにペーストしてから作成してください。
 htmlファイルの変更は、該当ファイル名をクリックして、右上に鉛筆マークをクリックすると、コードを書き換えることができます。
 しかしファイルの作成・変更にはpull requestとなり、web係によって認証され次第、実際にファイルが作成・変更されます。
@@ -28,7 +28,7 @@ However, any creation or modification of files must go through a pull request, a
 Detailed editing instructions are provided below.
 
 
-### <ファイルの作成方法>
+### <ファイルの作成方法(How to make files)>
 この操作で使うタグは黄色の実線で囲まれた３つのタグです。
 "Add file"をクリックして、"Create new file"をクリックすると、新しいファイルを作成できます。
 もし、画像やローカルで編集したファイルをアップロードしたい場合には"Upload files"をクリックして、当該ファイルをgithubの画面内にドラッグするか、ファイルを選択してください。
